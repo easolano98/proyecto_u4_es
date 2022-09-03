@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.uce.edu.demo.repository.modelo.Persona;
-import com.uce.edu.demo.repository.service.IPersonaService;
+import com.uce.edu.demo.service.IPersonaService;
 
 @Controller
 @RequestMapping("/estudiantes")
